@@ -1,0 +1,15 @@
+{
+  "name": "work-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Alexander SAVKA",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0"
+  }
+}
